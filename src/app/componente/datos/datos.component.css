@@ -1,0 +1,15 @@
+.container2 {
+  background-color: black;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  color: aliceblue;
+  text-align: center;
+}
+p{
+color: aliceblue;
+text-align: left;}

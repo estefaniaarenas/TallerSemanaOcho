@@ -1,0 +1,22 @@
+.formulario {
+  background: rgb(31, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(31, 0, 36, 1) 0%,
+    rgba(121, 9, 15, 0.9332107843137255) 0%,
+    rgba(168, 46, 33, 1) 100%
+  );
+  padding: 5em;
+  border-radius: 10px;
+  height: 70vh;
+  margin-top: 4em;
+  width: 50vh;
+}
+.container3{
+    background-color: black;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}

@@ -1,0 +1,25 @@
+.container1 {
+  background-color: black;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+}
+.parrafoLey {
+  color: aliceblue;
+}
+.card-body:hover {
+  background-color: bisque;
+}
+.cartas {
+  display: flex;
+  align-items: center;
+  max-width: 18rem;
+  background-color: rgb(243, 141, 51);
+  height: 25rem;
+}
